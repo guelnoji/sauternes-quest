@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.sauternes-quest.com/sitemap-index.xml

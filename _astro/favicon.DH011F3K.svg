@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Wine glass shape -->
+  <path d="M8 6 L24 6 L22 14 Q22 18 18 20 L18 26 L24 26 L24 28 L8 28 L8 26 L14 26 L14 20 Q10 18 10 14 L8 6 Z" fill="#BC9B6A" stroke="#8B7355" stroke-width="1"/>
+  
+  <!-- Wine in glass -->
+  <path d="M10 8 L22 8 L21 13 Q21 16 18 17 L14 17 Q11 16 11 13 L10 8 Z" fill="#722F37"/>
+  
+  <!-- Sparkles -->
+  <g fill="#FFD700" stroke="#FFC107" stroke-width="0.5">
+    <!-- Large sparkle top left -->
+    <path d="M6 4 L7 6 L9 5 L7 7 L6 9 L5 7 L3 5 L5 6 Z"/>
+    
+    <!-- Medium sparkle top right -->
+    <path d="M26 8 L26.8 9.2 L28 9 L26.8 10.2 L26 11 L25.2 10.2 L24 9 L25.2 9.2 Z"/>
+    
+    <!-- Small sparkle bottom right -->
+    <circle cx="27" cy="24" r="1"/>
+    <path d="M27 22 L27 26 M25 24 L29 24" stroke-width="1"/>
+    
+    <!-- Small sparkle bottom left -->
+    <circle cx="4" cy="22" r="0.8"/>
+    <path d="M4 20.5 L4 23.5 M2.5 22 L5.5 22" stroke-width="0.8"/>
+  </g>
+</svg>
